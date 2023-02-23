@@ -1,9 +1,9 @@
-# DocumentObjectModel-PigGame
+# DOM-PigGame
 
-Projeto simples que consiste na manipulação da DOM para o funcionamento de um jogo de sorte em que o objetivo é conseguir 50 pontos, 
+Projeto simples que consiste na manipulação da DOM (Document Object Model) para o funcionamento de um jogo de sorte em que o objetivo é conseguir 50 pontos, 
 a cada dado jogado o número sorteado é adicionado ao seu placar momentâneo, porém se cair **1**, todo esse placar momentâneo é perdido 
 e você perde sua vez, deixando o seu adversário jogar. Se não estiver se sentindo tão confiante, apenas segure o placar e adicionar ao 
-total - Escrito de forma imperativa.
+total - Programado de forma imperativa.
 
 ## Tecnologias
 * HTML

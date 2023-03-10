@@ -6,6 +6,8 @@ a cada dado jogado o número sorteado é adicionado ao seu placar momentâneo, p
 e você perde sua vez, deixando o seu adversário jogar. Se não estiver se sentindo tão confiante, apenas segure o placar e adicionar ao 
 total - Programado de forma imperativa.
 
+Veja online: https://murilo-sanches.github.io/pig-game/
+
 ### Conteúdos  
 * [Sobre](#sobre)  
 * [Tecnologias](#tecnologias)  

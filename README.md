@@ -1,6 +1,6 @@
 # Pig Game
 
-Veja online: https://murilo-sanches.github.io/pig-game/
+### Veja online: https://murilo-sanches.github.io/pig-game/
 
 ## Sobre
 Projeto simples que consiste na manipulação da DOM (Document Object Model) para o funcionamento de um jogo de sorte em que o objetivo é conseguir 50 pontos, 
